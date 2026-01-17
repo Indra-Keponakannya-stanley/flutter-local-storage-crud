@@ -1,16 +1,16 @@
-# flutter_note_app
+# Flutter Local Storage CRUD
 
-A new Flutter project.
+Aplikasi sederhana yang dibuat menggunakan Flutter untuk melakukan operasi **CRUD** (Create, Read, Delete) menggunakan **SQLite sebagai local storage**.
 
-## Getting Started
+## 📌 Fitur
+- Tambah note
+- Lihat daftar note
+- Hapus note
+- Data tersimpan secara lokal di perangkat
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/1a62f913-ada0-4692-a794-f51ae0820add" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/user-attachments/assets/f71b4437-0ede-4c89-8345-4b977b78e20d
+
